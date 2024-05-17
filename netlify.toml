@@ -1,0 +1,13 @@
+[project]
+command = "npm nun project"
+puplish = "/index"
+base = "/"
+[build.processing]
+  skip_processing = true
+[[redirects]]
+
+from = "/*"
+
+to = "/index.html"
+
+status = 200

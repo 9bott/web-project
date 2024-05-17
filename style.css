@@ -111,21 +111,21 @@ li {
 }
 
 @media (min-aspect-ratio:16/9) {
-    .background-clip{
+    ./background-clip{
         width: 100%;
         height: auto;
     }
 }
 
 @media (min-aspect-ratio:16/9) {
-  .background-clip{
+  ./background-clip{
       width: 100%;
       height: auto;
   }
 }
 
 @media (min-aspect-ratio:16/9) {
-  .background-clip1{
+  ./background-clip1{
       width: 100%;
       height: auto;
   }
